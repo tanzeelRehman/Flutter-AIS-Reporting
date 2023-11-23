@@ -1,0 +1,4 @@
+enum AttendenceType {
+  checkIn,
+  checkOut,
+}
