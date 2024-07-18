@@ -1,6 +1,6 @@
 class AppUrl {
   static const String baseUrl =
-      'https://officeautomation-node.appinsnap.com/api/';
+   
   // static const String baseUrl = 'http://192.168.12.187:5003/api/';
 
   /// Auth
